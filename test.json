@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "홍길동",
+        "photo": "https://kin-phinf.pstatic.net/20200818_247/1597730197036S5pFh_JPEG/1597730196729.jpg?type=w750",
+        "depart": "인공지능소프트웨어학과",
+        "email": "hong@example.com",
+        "role": "Backend"
+    },
+    {
+        "id": 2,
+        "name": "김철수",
+        "photo": "https://kin-phinf.pstatic.net/20200818_247/1597730197036S5pFh_JPEG/1597730196729.jpg?type=w750",
+        "depart": "인공지능소프트웨어학과",
+        "email": "kim@example.com",
+        "role": "Frontend"
+    },
+    {
+        "id": 3,
+        "name": "이영희",
+        "photo": "https://kin-phinf.pstatic.net/20200818_247/1597730197036S5pFh_JPEG/1597730196729.jpg?type=w750",
+        "depart": "인공지능소프트웨어학과",
+        "email": "lee@example.com",
+        "role": "Frontend"
+    },
+    {
+        "id": 5,
+        "name": "전진호",
+        "photo": "https://kin-phinf.pstatic.net/20200818_247/1597730197036S5pFh_JPEG/1597730196729.jpg?type=w750",
+        "depart": "인공지능소프트웨어학과",
+        "email": "jinho@example.com",
+        "role": "Backend"
+    },
+    {
+        "id": 8,
+        "name": "홍지우",
+        "photo": "https://kin-phinf.pstatic.net/20200818_247/1597730197036S5pFh_JPEG/1597730196729.jpg?type=w750",
+        "depart": "인공지능소프트웨어학과",
+        "email": "hong3@example.com",
+        "role": "Backend"
+    }
+]
